@@ -46,6 +46,6 @@ First, you need to grab the dependencies. Run `$ npm install` to get them. Then,
 ### About
 
 [CodePen by Teino Boswell]:- http://codepen.io/Teino1978-Corp/pen/rOyOoE  
-[GitHub]:- https://gist.github.com/Teino1978-Corp/forked
+[GitHub]:- https://gist.github.com/Teino1978-Corp/forked       
 [Facebook]:- https://www.facebook.com/photo.php?fbid=10207880874642300&set=a.1410943156129.2058732.1308992193&type=3&theater
 
